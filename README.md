@@ -1,2 +1,2 @@
-# marinello.github.com
+# marinello.github.io
 Public web site
